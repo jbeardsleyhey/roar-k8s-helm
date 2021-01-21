@@ -19,5 +19,5 @@ deployment:
 service:
   frontendPortName: "mysql"
   externalPort: 3306
-  internalPort: 3306
+  internalPort: 3308
 
