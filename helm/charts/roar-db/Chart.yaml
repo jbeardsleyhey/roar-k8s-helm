@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: v2
 description: Helm chart for roar-db instance
 name: roar-db
 version: 0.1.0
